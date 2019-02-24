@@ -1,0 +1,31 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv1\Scripts\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv3\Scripts\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv1\Scripts\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv3\Scripts\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv1\Scripts\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv3\Scripts\python.exe" value="false" />
+        <entry key="D:\RASPBERRY_PI3\PYTHON\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
